@@ -1,0 +1,49 @@
+[
+	{
+		"date": "Jan 2020",
+		"certi": "Improving Deep Neural Networks",
+		"link": "https://www.coursera.org/account/accomplishments/certificate/QYLXSWKMWQ5C",
+		"from": "Coursera",
+		"des": "Second course in a 5 course specialization on deep learning by deeplearning.ai"
+	},
+	
+	{
+		"date": "Dec 2019",
+		"certi": "Neural Networks and Deep Learning",
+		"link": "https://www.coursera.org/account/accomplishments/certificate/7JC5MSD6XNAJ",
+		"from": "Coursera",
+		"des": "First course in a 5 course specialization on deep learning by deeplearning.ai"
+	},
+	
+	{
+		"date": "July 2019",
+		"certi": "Internship Completion Certificate",
+		"link": "https://gauravghati.github.io/images/certificates/InternshipCompletion.pdf",
+		"from": "Indian Institute of Management, Ahmedabad",
+		"des": "Done full time paid internship at IIMA"
+	},
+	
+	{
+		"date": "Dec 2018",
+		"certi": "Java: Masterclass for Software Development",
+		"link": "https://www.coursera.org/account/accomplishments/certificate/QYLXSWKMWQ5C",
+		"from": "Udemy",
+		"des": "Completed a online Java Course for software Development"
+	},
+	
+	{
+		"date": "Jul 2017",
+		"certi": "Data Structures with C++",
+		"link": "https://www.coursera.org/account/accomplishments/certificate/QYLXSWKMWQ5C",
+		"from": "Disha Institute",
+		"des": "Completed a 3 Months Course and mastered all data structure concept with C++"
+	},
+
+	{
+		"date": "May 2017",
+		"certi": "C Programming",
+		"link": "https://www.coursera.org/account/accomplishments/certificate/QYLXSWKMWQ5C",
+		"from": "Disha Institute",
+		"des": "Completed and secure 70% with specialisation in C"
+	}
+]

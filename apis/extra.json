@@ -1,0 +1,59 @@
+{
+
+    "github": "https://github.com/gauravghati/",
+    "twitter": "https://twitter.com/GauravGhati/",
+    "linkedin": "http://linkedin.com/in/gauravghati/",
+
+    "projects":[
+        {
+        	"heading": "To Do List",
+            "name": "To Do List | JavaFX",
+            "time": "JAN '19",
+            "link": "https://github.com/gauravghati/ToDoList/",
+            "des" : [
+                "• ToDoList is a desktop Software with a GUI, used to make notes and keep a track of deadlines of various work lists.", 
+                "• This application is developed in JavaFX.",
+                "• The user can add, delete and check tasks for the day"
+            ]
+        },
+        {
+            "heading": "CLASH & RC",
+            "name": "CLASH RC | Django",
+            "time": "JUL '19",
+            "link": "https://github.com/clash-rc-round-2/",
+            "des" : [
+                "• Working on Backend part of the website, by Django's framework.",
+                "• Using Sandboxing to run C/CPP code in backend."
+            ]
+        },
+        {
+            "heading": "NCC",
+            "name": "NCC | REST APIs",
+            "time": "FEB '20",
+            "link": "https://github.com/CTD-NCC/NCC20/",
+            "des": [
+                "• Working in backend part of the website, implementing backend logic.",
+                "• Creating Rest APIs from where the data is fetched.",
+                "• Implementing sandboxing for running c/cpp code in backend.",
+                "• Deploying whole application on the internet."
+            ]
+        }
+    ],
+    
+    "experience" : [
+    	{
+    		"place": "Indian Institute of Management, Ahmedabad",
+    		"projectname": "Development of External Risk Indices",
+    		"des": "Worked on a website and software which automates the manual process of downloading data from the sources by using APIs and display it over the website, Created a static website(frontend using HTML, CSS, and JavaScript) and GUI of software using Python's library tinkter.",
+    		"position": "Summer Project Intern at IIMA",
+    		"period": "MAY '19 - JUN '19"
+    	},
+        {
+            "place": "Indian Institute of Technology, Bombay", 
+            "projectname": "R Textbook Companion Project",
+            "des": "Wrote a textbook in R language and successfully submitted it to IITB.",
+            "position": "Project Intern at IITB",
+            "period": "FEB '19 - MAR '19"
+        }
+    ]
+}
