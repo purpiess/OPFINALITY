@@ -4,7 +4,11 @@
     "mail": "gauravghati225@gmail.com",
 
     "bio": "I wish to raise my understanding of the nuances of Computer Science field and use this knowledge to become better in Software development/ML Research.",
-    "fun": "I'm not a Frontend developer, Then also I made this! ;)",
+    "fun": "I made this inspite of not being a frontend developer!",
+
+    "github": "https://github.com/gauravghati/",
+    "twitter": "https://twitter.com/GauravGhati/",
+    "linkedin": "http://linkedin.com/in/gauravghati/",
 
     "main": {
         "field1": "Open Source",
@@ -17,10 +21,6 @@
         "para2": "I'm an open-source enthusiast, and like to contribute in open source projects. After doing web dev, I stumbled upon machine learning, and found it very fascinating branch of Computer Science field, I would like continue my carrer as a ML Researcher."
     },
 
-    "github": "https://github.com/gauravghati/",
-    "twitter": "https://twitter.com/GauravGhati/",
-    "linkedin": "http://linkedin.com/in/gauravghati/",
-    
     "volunteer": {
         "tfi": {
             "heading": "Teach For India",

@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/languages/top/gauravghati/gauravghati.github.io)
 ![](https://img.shields.io/github/last-commit/gauravghati/gauravghati.github.io)
 
-This website is Under Construction, will complete it ASAP ;)
+### Portfolio + Github Pages = 
 
 Owner of Website:
 ## Gaurav Ghati 
