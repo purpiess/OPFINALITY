@@ -20,7 +20,7 @@
             "heading": "CLASH & RC",
             "name": "CLASH RC | Django",
             "time": "JUL '19",
-            "link": "https://github.com/clash-rc-round-2/",
+            "link": "http://clash.gauravghati.world/",
             "des" : [
                 "• Working on Backend part of the website, by Django's framework.",
                 "• Using Sandboxing to run C/CPP code in backend."
@@ -37,6 +37,22 @@
                 "• Implementing sandboxing for running c/cpp code in backend.",
                 "• Deploying whole application on the internet."
             ]
+        },
+
+        {
+            "heading": "-",
+            "name": "-",
+            "time": "",
+            "link": "-",
+            "des": []
+        },
+
+        {
+            "heading": "-",
+            "name": "-",
+            "time": "",
+            "link": "",
+            "des": []
         }
     ],
     
@@ -48,12 +64,21 @@
     		"position": "Summer Project Intern at IIMA",
     		"period": "MAY '19 - JUN '19"
     	},
+
         {
             "place": "Indian Institute of Technology, Bombay", 
             "projectname": "R Textbook Companion Project",
             "des": "Wrote a textbook in R language and successfully submitted it to IITB.",
             "position": "Project Intern at IITB",
             "period": "FEB '19 - MAR '19"
+        },
+
+        {
+            "place": "-", 
+            "projectname": "-",
+            "des": "",
+            "position": "-",
+            "period": ""
         }
     ]
 }

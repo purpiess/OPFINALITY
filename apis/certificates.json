@@ -1,12 +1,20 @@
 [
 	{
+		"date": "Mar 2020",
+		"certi": "Structuring Machine Learning Projects",
+		"link": "https://www.coursera.org/account/accomplishments/certificate/6A8U82G3T2X8",
+		"from": "Coursera",
+		"des": "Third course in a 5 course specialization on deep learning by deeplearning.ai"
+	},
+	
+	{
 		"date": "Jan 2020",
 		"certi": "Improving Deep Neural Networks",
 		"link": "https://www.coursera.org/account/accomplishments/certificate/QYLXSWKMWQ5C",
 		"from": "Coursera",
 		"des": "Second course in a 5 course specialization on deep learning by deeplearning.ai"
 	},
-	
+
 	{
 		"date": "Dec 2019",
 		"certi": "Neural Networks and Deep Learning",
@@ -14,7 +22,7 @@
 		"from": "Coursera",
 		"des": "First course in a 5 course specialization on deep learning by deeplearning.ai"
 	},
-	
+
 	{
 		"date": "July 2019",
 		"certi": "Internship Completion Certificate",
