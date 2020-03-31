@@ -6,29 +6,19 @@
 
     "projects":[
         {
-        	"heading": "To Do List",
-            "name": "To Do List | JavaFX",
-            "time": "JAN '19",
-            "link": "https://github.com/gauravghati/ToDoList/",
-            "des" : [
-                "• ToDoList is a desktop Software with a GUI, used to make notes and keep a track of deadlines of various work lists.", 
-                "• This application is developed in JavaFX.",
-                "• The user can add, delete and check tasks for the day"
+            "heading": "Emojifier",
+            "tech": "NLP",
+            "time": "MAR '20",
+            "link": "https://github.com/CTD-NCC/Emojifier/",
+            "des": [
+                "• This is a NLP project to Predict the Emojis for the Given Text",
+                "• Used Concept of LSTM is used to predict."
             ]
         },
-        {
-            "heading": "CLASH & RC",
-            "name": "CLASH RC | Django",
-            "time": "JUL '19",
-            "link": "http://clash.gauravghati.world/",
-            "des" : [
-                "• Working on Backend part of the website, by Django's framework.",
-                "• Using Sandboxing to run C/CPP code in backend."
-            ]
-        },
+
         {
             "heading": "NCC",
-            "name": "NCC | REST APIs",
+            "tech": "REST APIs",
             "time": "FEB '20",
             "link": "https://github.com/CTD-NCC/NCC20/",
             "des": [
@@ -40,19 +30,27 @@
         },
 
         {
-            "heading": "-",
-            "name": "-",
-            "time": "",
-            "link": "-",
-            "des": []
+            "heading": "CLASH & RC",
+            "name": "CLASH RC | Django",
+            "time": "JUL '19",
+            "link": "http://clash.gauravghati.world/",
+            "des" : [
+                "• Working on Backend part of the website, by Django's framework.",
+                "• Using Sandboxing to run C/CPP code in backend."
+            ]
         },
-
+        
         {
-            "heading": "-",
-            "name": "-",
-            "time": "",
-            "link": "",
-            "des": []
+            "heading": "To Do List",
+            "name": "To Do List | JavaFX",
+            "time": "JAN '19",
+            "link": "https://github.com/gauravghati/ToDoList/",
+            "des" : [
+                "• ToDoList is a desktop Software with a GUI.",
+                "• Used to make notes and keep a track of deadlines of various work lists.", 
+                "• This application is developed in JavaFX.",
+                "• The user can add, delete and check tasks for the day"
+            ]
         }
     ],
     
