@@ -7,9 +7,9 @@
     "projects":[
         {
             "heading": "Emojifier",
-            "tech": "NLP",
+            "tech": "NLP | LSTM",
             "time": "MAR '20",
-            "link": "https://github.com/CTD-NCC/Emojifier/",
+            "link": "https://github.com/gauravghati/Emojifier/",
             "des": [
                 "• This is a NLP project to Predict the Emojis for the Given Text",
                 "• Used Concept of LSTM is used to predict."
@@ -31,7 +31,7 @@
 
         {
             "heading": "CLASH & RC",
-            "name": "CLASH RC | Django",
+            "tech": "Django",
             "time": "JUL '19",
             "link": "http://clash.gauravghati.world/",
             "des" : [
@@ -42,7 +42,7 @@
         
         {
             "heading": "To Do List",
-            "name": "To Do List | JavaFX",
+            "tech": "JavaFX",
             "time": "JAN '19",
             "link": "https://github.com/gauravghati/ToDoList/",
             "des" : [
