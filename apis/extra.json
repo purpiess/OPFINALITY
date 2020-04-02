@@ -12,7 +12,8 @@
             "link": "https://github.com/gauravghati/Emojifier/",
             "des": [
                 "• This is a NLP project to Predict the Emojis for the Given Text",
-                "• Used Concept of LSTM is used to predict."
+                "• Used Concept of 2 layered LSTM to predict."
+                "• Predict with almost 98% accuracy."
             ]
         },
 
