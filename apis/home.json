@@ -21,6 +21,14 @@
         "para2": "I'm an open-source enthusiast, and like to contribute in open source projects. After doing web dev, I stumbled upon machine learning, and found it very fascinating branch of Computer Science field, I would like continue my carrer as a ML Researcher."
     },
 
+    "blogs": [
+        {
+            "name": "USING GITHUB PAGES FOR CREATING GLOBAL APIs",
+            "des": "This article is all about creating a globally hosted static API and using it for your website’s API.",
+            "link": "https://medium.com/@gauravghati/using-github-pages-for-creating-global-api-76b296c4b3b5"
+        }
+    ],
+
     "volunteer": {
         "tfi": {
             "heading": "Teach For India",
