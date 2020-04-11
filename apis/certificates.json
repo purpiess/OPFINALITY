@@ -1,6 +1,13 @@
 [
 	{
 		"date": "Apr 2020",
+		"certi": "Sequences, Time Series and Prediction",
+		"link": "https://coursera.org/share/9b903425b7a2f22d4562bfd24e1b44fe",
+		"from": "Coursera",
+		"des": "Learned to implement and predict time series and Sequences"
+	},
+	{
+		"date": "Apr 2020",
 		"certi": "Natural Language Processing in TensorFlow",
 		"link": "https://www.coursera.org/account/accomplishments/certificate/X5Y8WV98RHPN",
 		"from": "Coursera",
@@ -21,7 +28,6 @@
 		"from": "Coursera",
 		"des": "Third course in a 5 course specialization on deep learning by deeplearning.ai"
 	},
-	
 	{
 		"date": "Jan 2020",
 		"certi": "Improving Deep Neural Networks",
@@ -29,7 +35,6 @@
 		"from": "Coursera",
 		"des": "Second course in a 5 course specialization on deep learning by deeplearning.ai"
 	},
-
 	{
 		"date": "Dec 2019",
 		"certi": "Neural Networks and Deep Learning",
@@ -37,7 +42,6 @@
 		"from": "Coursera",
 		"des": "First course in a 5 course specialization on deep learning by deeplearning.ai"
 	},
-
 	{
 		"date": "July 2019",
 		"certi": "Internship Completion Certificate",
@@ -45,7 +49,6 @@
 		"from": "Indian Institute of Management, Ahmedabad",
 		"des": "Done full time paid internship at IIMA"
 	},
-	
 	{
 		"date": "Dec 2018",
 		"certi": "Java: Masterclass for Software Development",
@@ -53,7 +56,6 @@
 		"from": "Udemy",
 		"des": "Completed a online Java Course for software Development"
 	},
-	
 	{
 		"date": "Jul 2017",
 		"certi": "Data Structures with C++",
@@ -61,7 +63,6 @@
 		"from": "Disha Institute",
 		"des": "Completed a 3 Months Course and mastered all data structure concept with C++"
 	},
-
 	{
 		"date": "May 2017",
 		"certi": "C Programming",
