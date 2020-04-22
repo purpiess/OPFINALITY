@@ -3,7 +3,7 @@
     "phone": "+91 9067365762",
     "mail": "gauravghati225@gmail.com",
 
-    "bio": "I wish to raise my understanding of the nuances of Computer Science field and use this knowledge to become better in Software development/ML Research.",
+    "bio": "I wish to raise my understanding of the nuances of Computer Science field and use this knowledge to become better in Software developer/ML Practitioner.",
     "fun": "I made this inspite of not being a frontend developer!",
 
     "github": "https://github.com/gauravghati/",
@@ -17,14 +17,14 @@
     },
 
     "aboutme": {
-        "para1": "My interest towards Computer Science field sparked when I was working on a project and I extracted data form inspect element of a website using regex function in JAVA by inputing HTML code as string, since then I started believing that coding can do magical things, so I have been incessantly working on improving my skills. I have done various projects on web/Software Development and would continue to do so.",
-        "para2": "I'm an open-source enthusiast, and like to contribute in open source projects. After doing web dev, I stumbled upon machine learning, and found it very fascinating branch of Computer Science field, I would like continue my carrer as a ML Researcher."
+        "para1": "My interest towards Computer Science field sparked when I was working on a project and I extracted data form inspect element of a website using regex function in JAVA by inputing HTML code as string, since then I started believing that coding can do magical things, so I have been incessantly working on improving my skills. I have done various Django based projects on Web Dev and would continue to do so.",
+        "para2": "After doing web dev, I stumbled upon machine learning, and found it very fascinating, influential and powerful branch of Technology field, The process of learning with observations of data and improving itself to make accurate prediction is itself more than a magic, having proficiency in ML implementation is like having power to predict future! That's why I'm in this field ;)"
     },
 
     "blogs": [
         {
-            "name": "USING GITHUB PAGES FOR CREATING GLOBAL APIs",
-            "des": "This article is all about creating a globally hosted static API and using it for your website’s API.",
+            "name": "Using Github Pages for creating Global APIs",
+            "des": "Towards Data Science",
             "link": "https://medium.com/@gauravghati/using-github-pages-for-creating-global-api-76b296c4b3b5"
         }
     ],
