@@ -25,12 +25,14 @@
         {
             "name": "Using Github Pages for creating Global APIs",
             "des": "Towards Data Science",
-            "link": "https://medium.com/@gauravghati/using-github-pages-for-creating-global-api-76b296c4b3b5"
+            "link": "https://medium.com/@gauravghati/using-github-pages-for-creating-global-api-76b296c4b3b5",
+            "image": "https://gauravghati.github.io/images/publii-github-pages.jpg"
         },
         {
             "name": "Comparison between BERT, GPT-2 and ELMo",
             "des": "Medium",
-            "link": "https://medium.com/@gauravghati/comparison-between-bert-gpt-2-and-elmo-9ad140cd1cda"
+            "link": "https://medium.com/@gauravghati/comparison-between-bert-gpt-2-and-elmo-9ad140cd1cda",
+            "image": "https://gauravghati.github.io/images/blog2.jpg"
         }
     ],
 
