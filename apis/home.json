@@ -17,7 +17,7 @@
     },
 
     "aboutme": {
-        "para1": "My interest towards Computer Science field sparked when I was working on a project and I extracted data form inspect element of a website using regex function in JAVA by inputing HTML code as string, since then I started believing that coding can do magical things, so I have been incessantly working on improving my skills. I have done various Django based projects on Web Dev and would continue to do so.",
+        "para1": "I'm a 3rd year undergrad at Pune Institute of Computer Technology(PICT), and my interest towards Computer Science field sparked when I was working on a project and I extracted data form inspect element of a website using regex function in JAVA by inputing HTML code as string, since then I started believing that coding can do magical things, so I have been incessantly working on improving my skills. I have done various Django based projects on website developement including this website and would continue to do so.",
         "para2": "After doing web dev, I stumbled upon machine learning, and found it very fascinating, influential and powerful branch of Technology field, The process of machine learning by observing data and improving itself to make accurate prediction, is itself more than a magic, having proficiency in ML implementation is like having power to predict future! That's why I'm in this field ;)"
     },
 
@@ -39,10 +39,12 @@
     "volunteer": {
         "tfi": {
             "heading": "Teach For India",
+            "time": "Oct'19 - Mar'20",
             "description": "Teach For India (TFI), a program of Teach To Lead, aims to address educational inequity by building a movement of leaders that are committed to expanding educational opportunity"
         },
         "pisb": {
             "heading": "PICT IEEE Student Branch",
+            "time": "Jun'18 - Present",
             "description": "PICT IEEE Student Branch (PISB) was established with an aim of inculcating a sense of technical awareness amongst its student members in PICT."
         }
     }
