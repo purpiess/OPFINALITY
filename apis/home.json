@@ -23,8 +23,14 @@
 
     "blogs": [
         {
+            "name": "Head Pruning in Transformer Models!",
+            "des": "-",
+            "link": "https://medium.com/@gauravghati/head-pruning-in-transformer-models-ec222ca9ece7",
+            "image": "https://gauravghati.github.io/images/blog3.jpg"
+        },
+        {
             "name": "Comparison between BERT,GPT-2 and ELMo",
-            "des": "AI in Plain English",
+            "des": "-",
             "link": "https://medium.com/@gauravghati/comparison-between-bert-gpt-2-and-elmo-9ad140cd1cda",
             "image": "https://gauravghati.github.io/images/blog2.jpg"
         },
@@ -32,7 +38,7 @@
             "name": "Using Github Pages for creating Global APIs",
             "des": "Towards Data Science",
             "link": "https://medium.com/@gauravghati/using-github-pages-for-creating-global-api-76b296c4b3b5",
-            "image": "https://gauravghati.github.io/images/publii-github-pages.jpg"
+            "image": "https://gauravghati.github.io/images/blog1.jpg"
         }
     ],
 
