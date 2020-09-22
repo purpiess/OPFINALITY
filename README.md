@@ -1,5 +1,5 @@
 ## UPDATE
 
-THE PORTFOLIO ISN'T WORKING FROM PAST FEW MONTHS, REALLY BUSY WITH OTHER THINGS, WILL UPDATE OR MAKE IT LIVE AGAIN IF REQUIRED, TILL THEN STAY HAPPY :)
+**The Protfolio isn't working from past few months, really busy with other things, will update or make it live again if required, TILL THEN STAY HAPPY :)**
 
-IT'S APIS IS STILL WORKING tho.
+It's APIs, are still working, tho.
