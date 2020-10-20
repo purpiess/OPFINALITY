@@ -6,18 +6,6 @@
 
     "projects":[
         {
-            "heading": "Emojifier",
-            "tech": "NLP | LSTM",
-            "time": "MAR '20",
-            "link": "https://github.com/gauravghati/Emojifier/",
-            "des": [
-                "• Binary text classification project to Predict the Emojis for the Given Text",
-                "• Used Concept of 2 layered LSTM to predict.",
-                "• Predict with almost 98% accuracy."
-            ]
-        },
-
-        {
             "heading": "NCC",
             "tech": "REST APIs",
             "time": "FEB '20",
@@ -39,19 +27,6 @@
                 "• Working on Backend part of the website, by Django's framework.",
                 "• Using Sandboxing to run C/CPP code in backend."
             ]
-        },
-        
-        {
-            "heading": "To Do List",
-            "tech": "JavaFX",
-            "time": "JAN '19",
-            "link": "https://github.com/gauravghati/ToDoList/",
-            "des" : [
-                "• ToDoList is a desktop Software with a GUI.",
-                "• Used to make notes and keep a track of deadlines of various work lists.", 
-                "• This application is developed in JavaFX.",
-                "• The user can add, delete and check tasks for the day"
-            ]
         }
     ],
     
@@ -62,22 +37,6 @@
     		"des": "Worked on a website and software which automates the manual process of downloading data from the sources by using APIs and display it over the website, Created a static website(frontend using HTML, CSS, and JavaScript) and GUI of software using Python's library tinkter.",
     		"position": "Summer Project Intern at IIMA",
     		"period": "MAY '19 - JUN '19"
-    	},
-
-        {
-            "place": "Indian Institute of Technology, Bombay", 
-            "projectname": "R Textbook Companion Project",
-            "des": "Wrote a textbook in R language and successfully submitted it to IITB.",
-            "position": "Project Intern at IITB",
-            "period": "FEB '20 - MAR '20"
-        },
-
-        {
-            "place": "-", 
-            "projectname": "-",
-            "des": "",
-            "position": "-",
-            "period": ""
-        }
+    	}
     ]
 }
