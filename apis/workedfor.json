@@ -1,0 +1,23 @@
+{   
+    "job": [], 
+
+    "internships" : [
+            {
+                "place": "Indian Institute of Management, Ahmedabad",
+                "projectname": "Development of External Risk Indices",
+                "des": "Worked on a website and software which automates the manual process of downloading data from the sources by using APIs and display it over the website, Created a static website(frontend using HTML, CSS, and JavaScript) and GUI of software using Python's library tinkter.",
+                "position": "Summer Project Intern at IIMA",
+                "period": "MAY '19 - JUN '19"
+            }    
+    ],
+
+    "volunteer": [
+        {
+            "place": "Indian Institute of Management, Ahmedabad",
+            "projectname": "Development of External Risk Indices",
+            "des": "Worked on a website and software which automates the manual process of downloading data from the sources by using APIs and display it over the website, Created a static website(frontend using HTML, CSS, and JavaScript) and GUI of software using Python's library tinkter.",
+            "position": "Summer Project Intern at IIMA",
+            "period": "MAY '19 - JUN '19"
+        }
+    ]
+}

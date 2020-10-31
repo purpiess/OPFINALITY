@@ -1,0 +1,23 @@
+{
+    "prs": [
+        {
+            "prlink": "https://github.com/mozilla/kitsune/pull/4580",
+            "reponame": "mozilla/kitsune",
+            "repolink": "https://github.com/mozilla/kitsune/",
+            "Field": "Django Backend", 
+            "title": "Fixed sort article discussion posts by Author, Replies or Last Post",
+            "time": ""
+        }
+    ], 
+
+    "issues": [
+        {
+            "issuelink": "https://github.com/mozilla/kitsune/pull/4580",
+            "reponame": "mozilla/kitsune",
+            "repolink": "https://github.com/mozilla/kitsune/",
+            "Field": "Django Backend", 
+            "title": "Fixed sort article discussion posts by Author, Replies or Last Post",
+            "time": ""
+        }
+    ]
+}

@@ -1,10 +1,4 @@
-{
-
-    "github": "https://github.com/gauravghati/",
-    "twitter": "https://twitter.com/GauravGhati/",
-    "linkedin": "http://linkedin.com/in/gauravghati/",
-
-    "projects":[
+[
         {
             "heading": "Emojifier",
             "tech": "NLP | LSTM",
@@ -39,7 +33,7 @@
                 "• Working on Backend part of the website, by Django's framework.",
                 "• Using Sandboxing to run C/CPP code in backend."
             ]
-        },
+        },        
         
         {
             "heading": "To Do List",
@@ -53,31 +47,4 @@
                 "• The user can add, delete and check tasks for the day"
             ]
         }
-    ],
-    
-    "experience" : [
-    	{
-    		"place": "Indian Institute of Management, Ahmedabad",
-    		"projectname": "Development of External Risk Indices",
-    		"des": "Worked on a website and software which automates the manual process of downloading data from the sources by using APIs and display it over the website, Created a static website(frontend using HTML, CSS, and JavaScript) and GUI of software using Python's library tinkter.",
-    		"position": "Summer Project Intern at IIMA",
-    		"period": "MAY '19 - JUN '19"
-    	},
-
-        {
-            "place": "Indian Institute of Technology, Bombay", 
-            "projectname": "R Textbook Companion Project",
-            "des": "Wrote a textbook in R language and successfully submitted it to IITB.",
-            "position": "Project Intern at IITB",
-            "period": "FEB '20 - MAR '20"
-        },
-
-        {
-            "place": "-", 
-            "projectname": "-",
-            "des": "",
-            "position": "-",
-            "period": ""
-        }
-    ]
-}
+]
