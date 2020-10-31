@@ -1,17 +1,5 @@
 [
         {
-            "heading": "Emojifier",
-            "tech": "NLP | LSTM",
-            "time": "MAR '20",
-            "link": "https://github.com/gauravghati/Emojifier/",
-            "des": [
-                "• Binary text classification project to Predict the Emojis for the Given Text",
-                "• Used Concept of 2 layered LSTM to predict.",
-                "• Predict with almost 98% accuracy."
-            ]
-        },
-
-        {
             "heading": "NCC",
             "tech": "REST APIs",
             "time": "FEB '20",
