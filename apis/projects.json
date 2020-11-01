@@ -1,38 +1,43 @@
 [
-        {
-            "heading": "NCC",
-            "tech": "REST APIs",
-            "date": "FEB '20",
-            "link": "https://github.com/CTD-NCC/NCC20/",
-            "description": [
-                "• Working in backend part of the website, implementing backend logic.",
-                "• Creating Rest APIs from where the data is fetched.",
-                "• Implementing sandboxing for running c/cpp code in backend.",
-                "• Deploying whole application on the internet."
-            ]
-        },
-
-        {
-            "heading": "CLASH & RC",
-            "tech": "Django",
-            "date": "JUL '19",
-            "link": "http://clash.gauravghati.world/",
-            "description" : [
-                "• Working on Backend part of the website, by Django's framework.",
-                "• Using Sandboxing to run C/CPP code in backend."
-            ]
-        },        
-        
-        {
-            "heading": "To Do List",
-            "tech": "JavaFX",
-            "date": "JAN '19",
-            "link": "https://github.com/gauravghati/ToDoList/",
-            "description" : [
-                "• ToDoList is a desktop Software with a GUI.",
-                "• Used to make notes and keep a track of deadlines of various work lists.", 
-                "• This application is developed in JavaFX.",
-                "• The user can add, delete and check tasks for the day"
-            ]
-        }
+    {
+        "heading": "Credenz Website Backend",
+        "tech": "Node JS",
+        "date": "Sep'20 - Oct'20",
+        "ghlink": "",
+        "hosted": "", 
+        "description": [
+            "• Created main website backend APIs for Technical Fest i.e. Credenz ‘20, Website will be live soon."
+        ]
+    },
+    {
+        "heading": "Question Portal",
+        "tech": "Node JS",
+        "date": "Jun'20 - Jul'20",
+        "ghlink": "https://github.com/gauravghati/ToDoList/",
+        "hosted": "", 
+        "description" : [
+            "• Website for accepting the competitive programming questions, which we used in creating the question dataset of the competitive coding events (conducted by PISB)."
+        ]
+    }, 
+    {
+        "heading": "NCC",
+        "tech": "REST APIs",
+        "date": "FEB'20 - Mar'20",
+        "ghlink": "https://github.com/CTD-NCC/NCC20/",
+        "hosted": "", 
+        "description": [
+            "• National Computing Contest (NCC) platform is used by more than 500+ participants in Credenz Tech Days. We created an Online Judge of C/CPP/Python for the contestants to submit the code",
+            "• Implemented sandboxing env to run c/cpp codes in the backend"
+        ]
+    },
+    {
+        "heading": "CLASH & RC",
+        "tech": "Django",
+        "date": "JUL '19",
+        "ghlink": "http://clash.gauravghati.world/",
+        "hosted": "", 
+        "description" : [
+            "Clash and Reverse Coding (RC) platform is used by more than 900+ participants in Credenz ‘19 . We created an Online Judge of C/CPP/Python for the contestants to submit their code."
+        ]
+    }
 ]

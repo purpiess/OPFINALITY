@@ -6,18 +6,41 @@
             "repolink": "https://github.com/mozilla/kitsune/",
             "Field": "Django Backend", 
             "title": "Fixed sort article discussion posts by Author, Replies or Last Post",
-            "date": ""
-        }
-    ], 
-
-    "issues": [
+            "date": "Oct '20"
+        },
         {
-            "issuelink": "https://github.com/mozilla/kitsune/pull/4580",
+            "prlink": "https://github.com/mozilla/kitsune/pull/4578",
             "reponame": "mozilla/kitsune",
             "repolink": "https://github.com/mozilla/kitsune/",
             "Field": "Django Backend", 
-            "title": "Fixed sort article discussion posts by Author, Replies or Last Post",
-            "date": ""
+            "title": "adding next_url after auth of contributor",
+            "date": "Oct '20"
+        },
+        {
+            "prlink": "https://github.com/hunkim/DeepLearningZeroToAll/pull/259",
+            "reponame": "/hunkim/DeepLearningZeroToAll",
+            "repolink": "https://github.com/hunkim/DeepLearningZeroToAll/",
+            "Field": "Deep Learning", 
+            "title": "Updated Keras Models",
+            "date": "Jan '20"
+        }
+    ], 
+    "issues": [
+        {
+            "issuelink": "https://github.com/mozilla/sumo-project/issues/529",
+            "reponame": "mozilla/kitsune",
+            "repolink": "https://github.com/mozilla/kitsune/",
+            "Field": "Django Backend", 
+            "title": "Filtering Article Discussion posts by Author, Replies or Last Post does not work",
+            "date": "Oct '20"
+        }, 
+        {
+            "issuelink": "https://github.com/mozilla/sumo-project/issues/308",
+            "reponame": "mozilla/kitsune",
+            "repolink": "https://github.com/mozilla/kitsune/",
+            "Field": "Django Backend", 
+            "title": "The user is redirected to home page",
+            "date": "Oct '20"
         }
     ]
 }

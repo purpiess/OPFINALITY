@@ -13,6 +13,11 @@
 
     "volunteer": [
         {
+            "heading": "Mozilla",
+            "date": "Oct'20 - Present",
+            "description": "Solving Bugs and making Open Source Contributions"
+        },
+        {
             "heading": "Teach For India",
             "date": "Oct'19 - Mar'20",
             "description": "Teach For India (TFI), a program of Teach To Lead, aims to address educational inequity by building a movement of leaders that are committed to expanding educational opportunity"

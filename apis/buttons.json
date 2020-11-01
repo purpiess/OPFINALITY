@@ -2,5 +2,33 @@
     {
         "name": "Github",
         "link": "https://github.com/gauravghati/"
+    },
+    {
+        "name": "Projects",
+        "link": ""
+    },
+    {
+        "name": "OpenSource Contibutions",
+        "link": ""
+    },
+    {
+        "name": "Org. Workedfor",
+        "link": ""
+    },
+    {
+        "name": "Blogs",
+        "link": ""
+    },
+    {
+        "name": "Codechef",
+        "link": "https://www.codechef.com/users/gauravghati"
+    }, 
+    {
+        "name": "HackerRank",
+        "link": "https://www.hackerrank.com/gauravghati"
+    },     
+    {
+        "name": "Medium",
+        "link": "https://medium.com/@gauravghati"
     }
 ]
