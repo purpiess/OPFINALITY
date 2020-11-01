@@ -4,20 +4,20 @@
         "link": "https://github.com/gauravghati/"
     },
     {
-        "name": "Projects Worked on",
-        "link": ""
+        "name": "Projects",
+        "link": "https://gauravghati.herokuapp.com/projects/"
     },
     {
         "name": "OpenSource Contibutions",
-        "link": ""
+        "link": "https://gauravghati.herokuapp.com/opensource/"
     },
     {
         "name": "Organizations Worked For",
-        "link": ""
+        "link": "https://gauravghati.herokuapp.com/workedfor/"
     },
     {
         "name": "Technical Blogs",
-        "link": ""
+        "link": "https://gauravghati.herokuapp.com/blogs/"
     },
     {
         "name": "Codechef",
@@ -30,5 +30,17 @@
     {
         "name": "Medium",
         "link": "https://medium.com/@gauravghati"
+    },
+    {
+        "name": "Good Sentences", 
+        "link": "https://git.io/JTQWV"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/gauravghati/"
+    },
+    {
+        "name": "LinkedIn",
+        "link": "http://linkedin.com/in/gauravghati/"
     }
 ]
