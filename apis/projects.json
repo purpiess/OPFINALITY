@@ -2,9 +2,9 @@
         {
             "heading": "NCC",
             "tech": "REST APIs",
-            "time": "FEB '20",
+            "date": "FEB '20",
             "link": "https://github.com/CTD-NCC/NCC20/",
-            "des": [
+            "description": [
                 "• Working in backend part of the website, implementing backend logic.",
                 "• Creating Rest APIs from where the data is fetched.",
                 "• Implementing sandboxing for running c/cpp code in backend.",
@@ -15,9 +15,9 @@
         {
             "heading": "CLASH & RC",
             "tech": "Django",
-            "time": "JUL '19",
+            "date": "JUL '19",
             "link": "http://clash.gauravghati.world/",
-            "des" : [
+            "description" : [
                 "• Working on Backend part of the website, by Django's framework.",
                 "• Using Sandboxing to run C/CPP code in backend."
             ]
@@ -26,9 +26,9 @@
         {
             "heading": "To Do List",
             "tech": "JavaFX",
-            "time": "JAN '19",
+            "date": "JAN '19",
             "link": "https://github.com/gauravghati/ToDoList/",
-            "des" : [
+            "description" : [
                 "• ToDoList is a desktop Software with a GUI.",
                 "• Used to make notes and keep a track of deadlines of various work lists.", 
                 "• This application is developed in JavaFX.",

@@ -5,19 +5,22 @@
             {
                 "place": "Indian Institute of Management, Ahmedabad",
                 "projectname": "Development of External Risk Indices",
-                "des": "Worked on a website and software which automates the manual process of downloading data from the sources by using APIs and display it over the website, Created a static website(frontend using HTML, CSS, and JavaScript) and GUI of software using Python's library tinkter.",
+                "description": "Worked on a website and software which automates the manual process of downloading data from the sources by using APIs and display it over the website, Created a static website(frontend using HTML, CSS, and JavaScript) and GUI of software using Python's library tinkter.",
                 "position": "Summer Project Intern at IIMA",
-                "period": "MAY '19 - JUN '19"
+                "date": "MAY '19 - JUN '19"
             }    
     ],
 
     "volunteer": [
         {
-            "place": "Indian Institute of Management, Ahmedabad",
-            "projectname": "Development of External Risk Indices",
-            "des": "Worked on a website and software which automates the manual process of downloading data from the sources by using APIs and display it over the website, Created a static website(frontend using HTML, CSS, and JavaScript) and GUI of software using Python's library tinkter.",
-            "position": "Summer Project Intern at IIMA",
-            "period": "MAY '19 - JUN '19"
+            "heading": "Teach For India",
+            "date": "Oct'19 - Mar'20",
+            "description": "Teach For India (TFI), a program of Teach To Lead, aims to address educational inequity by building a movement of leaders that are committed to expanding educational opportunity"
+        },
+        {
+            "heading": "PICT IEEE Student Branch",
+            "date": "Jun'18 - Present",
+            "description": "PICT IEEE Student Branch (PISB) was established with an aim of inculcating a sense of technical awareness amongst its student members in PICT."
         }
     ]
 }

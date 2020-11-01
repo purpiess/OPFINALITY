@@ -6,7 +6,7 @@
             "repolink": "https://github.com/mozilla/kitsune/",
             "Field": "Django Backend", 
             "title": "Fixed sort article discussion posts by Author, Replies or Last Post",
-            "time": ""
+            "date": ""
         }
     ], 
 
@@ -17,7 +17,7 @@
             "repolink": "https://github.com/mozilla/kitsune/",
             "Field": "Django Backend", 
             "title": "Fixed sort article discussion posts by Author, Replies or Last Post",
-            "time": ""
+            "date": ""
         }
     ]
 }
