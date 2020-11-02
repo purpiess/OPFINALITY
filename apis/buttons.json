@@ -1,46 +1,51 @@
-[
-    {
-        "name": "Github",
-        "link": "https://github.com/gauravghati/"
-    },
-    {
-        "name": "Projects",
-        "link": "https://gauravghati.herokuapp.com/projects/"
-    },
-    {
-        "name": "OpenSource Contibutions",
-        "link": "https://gauravghati.herokuapp.com/opensource/"
-    },
-    {
-        "name": "Organizations Worked For",
-        "link": "https://gauravghati.herokuapp.com/workedfor/"
-    },
-    {
-        "name": "Technical Blogs",
-        "link": "https://gauravghati.herokuapp.com/blogs/"
-    },
-    {
-        "name": "Codechef",
-        "link": "https://www.codechef.com/users/gauravghati"
-    }, 
-    {
-        "name": "HackerRank",
-        "link": "https://www.hackerrank.com/gauravghati"
-    },     
-    {
-        "name": "Medium",
-        "link": "https://medium.com/@gauravghati"
-    },
-    {
-        "name": "Good Sentences", 
-        "link": "https://git.io/JTQWV"
-    },
-    {
-        "name": "Twitter",
-        "link": "https://twitter.com/gauravghati/"
-    },
-    {
-        "name": "LinkedIn",
-        "link": "http://linkedin.com/in/gauravghati/"
-    }
-]
+{    
+    "formal": [
+        {
+            "name": "Github",
+            "link": "https://github.com/gauravghati/"
+        },
+        {
+            "name": "LinkedIn",
+            "link": "http://linkedin.com/in/gauravghati/"
+        }, 
+        {
+            "name": "Projects",
+            "link": "https://gauravghati.herokuapp.com/projects/"
+        },
+        {
+            "name": "OpenSource Contibutions",
+            "link": "https://gauravghati.herokuapp.com/opensource/"
+        },
+        {
+            "name": "Organizations Worked For",
+            "link": "https://gauravghati.herokuapp.com/workedfor/"
+        },
+        {
+            "name": "Technical Blogs",
+            "link": "https://gauravghati.herokuapp.com/blogs/"
+        },
+        {
+            "name": "Codechef",
+            "link": "https://www.codechef.com/users/gauravghati"
+        }, 
+        {
+            "name": "HackerRank",
+            "link": "https://www.hackerrank.com/gauravghati"
+        },     
+        {
+            "name": "Medium",
+            "link": "https://medium.com/@gauravghati"
+        }
+    ],
+ 
+    "informal": [
+        {
+            "name": "Good Sentences", 
+            "link": "https://git.io/JTQWV"
+        },
+        {
+            "name": "Twitter",
+            "link": "https://twitter.com/gauravghati/"
+        }
+    ]
+}
