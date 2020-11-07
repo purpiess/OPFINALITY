@@ -41,7 +41,11 @@
     "informal": [
         {
             "name": "Good Sentences", 
-            "link": "https://git.io/JTQWV"
+            "link": "https://gauravghati.herokuapp.com/gist/goodsentences/"
+        },
+        {
+            "name": "Book Reviews", 
+            "link": "https://gauravghati.herokuapp.com/gist/bookreviews/"
         },
         {
             "name": "Twitter",
