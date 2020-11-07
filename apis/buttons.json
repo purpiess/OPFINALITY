@@ -5,6 +5,10 @@
             "link": "https://github.com/gauravghati/"
         },
         {
+            "name": "Gmail",
+            "link": "mailto:gurvghati@gmail.com"
+        },
+        {
             "name": "LinkedIn",
             "link": "http://linkedin.com/in/gauravghati/"
         }, 
@@ -25,13 +29,17 @@
             "link": "https://gauravghati.herokuapp.com/blogs/"
         },
         {
+            "name": "Github Stats",
+            "link": "https://www.gitmemory.com/gauravghati"
+        },
+        {
             "name": "Codechef",
             "link": "https://www.codechef.com/users/gauravghati"
         }, 
         {
             "name": "HackerRank",
             "link": "https://www.hackerrank.com/gauravghati"
-        },     
+        },
         {
             "name": "Medium",
             "link": "https://medium.com/@gauravghati"
@@ -50,6 +58,10 @@
         {
             "name": "Twitter",
             "link": "https://twitter.com/gauravghati/"
+        },
+        {
+            "name": "Instagram",
+            "link": "https://www.instagram.com/gauravghati/"
         }
     ]
 }
