@@ -11,18 +11,6 @@
         {
             "name": "LinkedIn",
             "link": "http://linkedin.com/in/gauravghati/"
-        }, 
-        {
-            "name": "Projects",
-            "link": "https://gauravghati.herokuapp.com/projects/"
-        },
-        {
-            "name": "OpenSource Contibutions",
-            "link": "https://gauravghati.herokuapp.com/opensource/"
-        },
-        {
-            "name": "Organizations Worked For",
-            "link": "https://gauravghati.herokuapp.com/workedfor/"
         },
         {
             "name": "Technical Blogs",
