@@ -1,8 +1,18 @@
 [
     {
+        "heading": "Hospital Management System",
+        "tech": "Java Swing, MySQL",
+        "date": "Nov'20 - Jan'21",
+        "ghlink": "",
+        "hosted": "", 
+        "description": [
+            "• Created main website backend APIs for Technical Fest i.e. Credenz ‘20, Website will be live soon."
+        ]
+    },    
+    {
         "heading": "Credenz Website Backend",
-        "tech": "Node JS",
-        "date": "Sep'20 - Oct'20",
+        "tech": "Node JS, MongoDB",
+        "date": "Sep'20 - Nov'20",
         "ghlink": "",
         "hosted": "", 
         "description": [
@@ -11,22 +21,22 @@
     },
     {
         "heading": "Question Portal",
-        "tech": "Node JS",
+        "tech": "Node JS, MongoDB",
         "date": "Jun'20 - Jul'20",
-        "ghlink": "https://github.com/gauravghati/ToDoList/",
+        "ghlink": "",
         "hosted": "", 
         "description" : [
-            "• Website for accepting the competitive programming questions, which we used in creating the question dataset of the competitive coding events (conducted by PISB)."
+            "•Website for accepting the competitive programming questions, which we used in creating the question dataset of the competitive coding events (conducted by PISB)"
         ]
     }, 
     {
         "heading": "NCC",
-        "tech": "REST APIs",
+        "tech": "Django REST",
         "date": "FEB'20 - Mar'20",
-        "ghlink": "https://github.com/CTD-NCC/NCC20/",
+        "ghlink": "",
         "hosted": "", 
         "description": [
-            "• National Computing Contest (NCC) platform is used by more than 500+ participants in Credenz Tech Days. We created an Online Judge of C/CPP/Python for the contestants to submit the code",
+            "• National Computing Contest (NCC) platform is used by more than 500+ participants in Credenz Tech Days. We created an Online Judge of C/CPP/Python for the contestants to submit the code.",
             "• Implemented sandboxing env to run c/cpp codes in the backend"
         ]
     },
@@ -34,10 +44,10 @@
         "heading": "CLASH & RC",
         "tech": "Django",
         "date": "JUL '19",
-        "ghlink": "http://clash.gauravghati.world/",
+        "ghlink": "",
         "hosted": "", 
         "description" : [
-            "Clash and Reverse Coding (RC) platform is used by more than 900+ participants in Credenz ‘19 . We created an Online Judge of C/CPP/Python for the contestants to submit their code."
+            "• Clash and Reverse Coding (RC) platform is used by more than 900+ participants in Credenz ‘19 . We created an Online Judge of C/CPP/Python for the contestants to submit their code."
         ]
     }
 ]

@@ -2,13 +2,13 @@
     "job": [], 
 
     "internships" : [
-            {
-                "place": "Indian Institute of Management, Ahmedabad",
-                "projectname": "Development of External Risk Indices",
-                "description": "Worked on a website and software which automates the manual process of downloading data from the sources by using APIs and display it over the website, Created a static website(frontend using HTML, CSS, and JavaScript) and GUI of software using Python's library tinkter.",
-                "position": "Summer Project Intern at IIMA",
-                "date": "MAY '19 - JUN '19"
-            }    
+        {
+            "place": "Indian Institute of Management, Ahmedabad",
+            "projectname": "Development of External Risk Indices",
+            "description": "Worked on a web portal and a software which automates the manual process of downloading data from the public sources by using various public APIs.",
+            "position": "Summer Project Intern at IIMA",
+            "date": "MAY '19 - JUN '19"
+        }    
     ],
 
     "volunteer": [
@@ -16,14 +16,20 @@
             "heading": "PICT IEEE Student Branch",
             "date": "Jun'18 - Present",
             "description": [
-                "PICT IEEE Student Branch (PISB) was established with an aim of inculcating a sense of technical awareness amongst its student members in PICT."
+                "My Role as Technical Head:",
+                "• Organised Tech Fest (Credenz '19) in the college",
+                "• Took SIGs and technical talks for students.",
+                "• Help to increase technical activities in student branch."
             ]
         }, 
         {
             "heading": "Teach For India",
             "date": "Oct'19 - Mar'20",
             "description": [
-                "Teach For India (TFI), a program of Teach To Lead, aims to address educational inequity by building a movement of leaders that are committed to expanding educational opportunity"
+                "My Role as Volunteer:",
+                "• Taking lectures on subjects Maths, Science and Geography.",
+                "• Question paper setting for them.",
+                "• evaluation of answer papers."
             ]
         }
     ]
