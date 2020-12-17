@@ -1,6 +1,20 @@
 {
     "prs": [
     	{
+            "prlink": "https://github.com/mlpack/mlpack/pull/2769",
+            "reponame": "MLpack",
+            "Field": "Machine Learning", 
+            "title": "Adding Constructors for Convolution and Adaptive mean pooling",
+            "date": "Dec '20"    	
+    	},
+        {
+            "prlink": "https://github.com/mlpack/mlpack/pull/2759",
+            "reponame": "MLpack",
+            "Field": "Machine Learning", 
+            "title": "Adding Copy and Move constructors for LSTM class",
+            "date": "Dec '20"    	
+    	},
+    	{
             "prlink": "https://github.com/mozilla/kitsune/pull/4588",
             "reponame": "Support Website Mozilla",
             "Field": "Backend", 
