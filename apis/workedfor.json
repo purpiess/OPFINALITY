@@ -3,25 +3,52 @@
 
     "internships" : [
         {
-            "place": "Indian Institute of Management, Ahmedabad",
-            "projectname": "Development of External Risk Indices",
-            "description": "Worked on a web portal and a software which automates the manual process of downloading data from the public sources by using various public APIs.",
-            "position": "Summer Project Intern at IIMA",
-            "date": "MAY '19 - JUN '19"
+            "date": "Aug 2021 to Mar 2021",
+            "company": "Veritas Technologies",
+            "post": "Project Associate",
+            "location": "Pune, India",
+            "description": [
+                "• Project sponsored and Guided by Veritas.",
+                "• Predictive coding and technology-assisted review (TAR). Manual reviews of millions of documents are extremely costly, time-consuming, error-prone, full of biases/prejudices.",
+                "• Proposed solution: Implement supervised rule-based machine learning algorithms to “train” the system so that it can “predict” potential matches. Let manual reviewers, review only a handful of documents (say 100), train the system based on that samples, and let the system predict matching documents from millions of documents.",
+                "• Worked on technologies: Python, classification algorithms, NLP."
+            ]
+        },
+        {
+            "date": "Jan 2021 to Mar 2021",
+            "company": "Acumensa Tech",
+            "post": "Summer Developer Intern",
+            "location": "Bangalore, India",
+            "description": [
+                "• Completed and deployed a Supply Chain Management project.",
+                "• This project manages multiple tasks for farmers, suppliers, sellers and buyers. It solves existing problem of backtracking if any error is found in the product. My role was to implement permission and approval system of the software.",
+                "• Worked on technologies: Django REST and MySQL."
+            ]
+        },
+        {
+            "date": "May 2019 to June 2019",
+            "company": "Indian Institute of Management, Ahmedabad",
+            "post": "Summer Project Intern",
+            "location": "Ahmedabad, India",
+            "description": [
+                "• Worked on a project that automates the manual process of downloading data from various public APIs and represented that data in a statistical and structured way on a website.",
+                "• Worked on technologies: Python and JavaScript."
+            ]
         }    
     ],
 
     "volunteer": [
         {
             "heading": "PICT IEEE Student Branch",
-            "date": "Jun'18 - Present",
+            "date": "Sep 2018 - Aug 2021",
             "description": [
-                "My Role as Technical Head:",
+                "Technical Head at PICT IEEE Student Branch(PISB) contains more than 300+ active student members in it",
+                "• • • My Role as Technical Head:",
                 "• Organised Tech Fest (Credenz '19) in the college",
                 "• Took SIGs and technical talks for students.",
                 "• Help to increase technical activities in student branch."
             ]
-        }, 
+        },
         {
             "heading": "Teach For India",
             "date": "Oct'19 - Mar'20",
@@ -30,6 +57,13 @@
                 "• Taking lectures on subjects Maths, Science and Geography.",
                 "• Question paper setting for them.",
                 "• evaluation of answer papers."
+            ]
+        },
+        {
+            "heading": "Open Source Developer",
+            "date": "Oct 2020 - Dec 2020",
+            "description": [
+                "Solved issues(website bugs) and created more that ten pull request to solve them, on mozilla support website."
             ]
         }
     ]
