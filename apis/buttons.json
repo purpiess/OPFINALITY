@@ -17,10 +17,6 @@
             "link": "http://linkedin.com/in/gauravghati/"
         },
         {
-            "name": "Technical Blogs",
-            "link": "https://gauravghati.herokuapp.com/blogs/"
-        },
-        {
             "name": "Github Stats",
             "link": "https://www.gitmemory.com/gauravghati"
         },
@@ -39,10 +35,6 @@
     ],
  
     "informal": [
-        {
-            "name": "Good Sentences", 
-            "link": "https://gauravghati.herokuapp.com/gist/goodsentences/"
-        },
         {
             "name": "Good Reads", 
             "link": "https://www.goodreads.com/gauravghati"

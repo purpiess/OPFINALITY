@@ -17,7 +17,7 @@
         {
             "date": "Jan 2021 to Mar 2021",
             "company": "Acumensa Tech",
-            "post": "Summer Developer Intern",
+            "post": "Software Developer Intern",
             "location": "Bangalore, India",
             "description": [
                 "• Completed and deployed a Supply Chain Management project.",
@@ -39,7 +39,8 @@
 
     "volunteer": [
         {
-            "heading": "PICT IEEE Student Branch",
+            "company": "PICT IEEE Student Branch",
+            "position": "Technical Head",
             "date": "Sep 2018 - Aug 2021",
             "description": [
                 "Technical Head at PICT IEEE Student Branch(PISB) contains more than 300+ active student members in it",
@@ -50,7 +51,8 @@
             ]
         },
         {
-            "heading": "Teach For India",
+            "company": "Teach For India",
+            "position": "Teaching Assistant",
             "date": "Oct'19 - Mar'20",
             "description": [
                 "My Role as Volunteer:",
@@ -60,7 +62,8 @@
             ]
         },
         {
-            "heading": "Open Source Developer",
+            "company" : "Mozilla",
+            "position": "Open Source Developer",
             "date": "Oct 2020 - Dec 2020",
             "description": [
                 "Solved issues(website bugs) and created more that ten pull request to solve them, on mozilla support website."
