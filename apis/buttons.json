@@ -1,16 +1,20 @@
 {    
     "formal": [
         {
+            "name": "Resume",
+            "link": "https://gauravghati.github.io/certificates/Resume_Gaurav_Ghati.pdf"
+        },
+        {
             "name": "Github",
             "link": "https://github.com/gauravghati/"
         },
         {
-            "name": "Open Source",
-            "link": "https://gauravg.in/#/opensource/"
-        },
-        {
             "name": "Gmail",
             "link": "mailto:gauravghatii@gmail.com"
+        },
+        {
+            "name": "Open Source",
+            "link": "https://gauravg.in/#/opensource/"
         },
         {
             "name": "LinkedIn",
@@ -24,6 +28,10 @@
             "name": "Codechef",
             "link": "https://www.codechef.com/users/gauravghati"
         }, 
+        {
+            "name": "Leetcode",
+            "link": "https://leetcode.com/gauravghati/"
+        },
         {
             "name": "HackerRank",
             "link": "https://www.hackerrank.com/gauravghati"

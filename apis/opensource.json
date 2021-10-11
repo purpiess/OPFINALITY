@@ -5,42 +5,42 @@
             "repo": "MLpack",
             "field": "Machine Learning", 
             "title": "Adding Constructors for Convolution and Adaptive mean pooling",
-            "date": "Dec '20"    	
+            "date": "Dec 2020"    	
     	},
         {
             "link": "https://github.com/mlpack/mlpack/pull/2759",
             "repo": "MLpack",
             "field": "Machine Learning", 
             "title": "Adding Copy and Move constructors for LSTM class",
-            "date": "Dec '20"    	
+            "date": "Dec 2020"    	
     	},
     	{
             "link": "https://github.com/mozilla/kitsune/pull/4588",
             "repo": "Support Website Mozilla",
             "field": "Web development (Backend)", 
             "title": "Removed dashboard overview-link 404 page",
-            "date": "Nov '20"    	
+            "date": "Nov 2020"    	
     	},
         {
             "link": "https://github.com/mozilla/kitsune/pull/4580",
             "repo": "Support Website Mozilla",
             "field": "Web development (Backend)", 
             "title": "Fixed sort article discussion posts by Author, Replies or Last Post",
-            "date": "Oct '20"
+            "date": "Oct 2020"
         },
         {
             "link": "https://github.com/mozilla/kitsune/pull/4578",
             "repo": "Support Website Mozilla",
             "field": "Web development (Backend)", 
             "title": "adding next_url after auth of contributor",
-            "date": "Oct '20"
+            "date": "Oct 2020"
         },
         {
             "link": "https://github.com/hunkim/DeepLearningZeroToAll/pull/259",
             "repo": "hunkim/DeepLearningZeroToAll",
             "field": "Deep Learning", 
             "title": "Updated Keras Models",
-            "date": "Jan '20"
+            "date": "Jan 2020"
         }
     ], 
     "issues": [
@@ -49,21 +49,21 @@
             "repo": "Support Website Mozilla",
             "field": "Web development (Backend)", 
             "title": "Complete Overview redirects to 404 when All Products are selected",
-            "date": "Oct '20"
+            "date": "Oct 2020"
         }, 
         {
             "link": "https://github.com/mozilla/sumo-project/issues/529",
             "repo": "Support Website Mozilla",
             "field": "Web development (Backend)", 
             "title": "Filtering Article Discussion posts does not work",
-            "date": "Oct '20"
+            "date": "Oct 2020"
         }, 
         {
             "link": "https://github.com/mozilla/sumo-project/issues/308",
             "repo": "Support Website Mozilla",
             "field": "Web development (Backend)", 
             "title": "The user is redirected to home page",
-            "date": "Oct '20"
+            "date": "Oct 2020"
         }
     ]
 }

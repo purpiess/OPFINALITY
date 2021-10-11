@@ -1,5 +1,7 @@
 {   
-    "job": [], 
+    "job": [
+
+    ], 
 
     "internships" : [
         {
@@ -35,6 +37,18 @@
                 "• Worked on technologies: Python and JavaScript."
             ]
         }    
+    ],
+
+    "freelancing": [
+        {
+            "company": "Somani Fashion",
+            "position": "Web Developer",
+            "date": "May 2021",
+            "description": [
+                "• Created a Static Website for Somani fashion (Clothing related company)",
+                "• Helped them, deploying the website."
+            ]
+        }
     ],
 
     "volunteer": [
