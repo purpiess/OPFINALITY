@@ -4063,7 +4063,7 @@ while wait() do
 	end
 	if following then
 		for i,v in pairs(GetPlayer(TXTBOX_PlrName.Text))do
-			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players[v.Name].Character.HumanoidRootPart.CFrame + Vector3.new(5,4,0)
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players[v.Name].Character.HumanoidRootPart.CFrame + Vector3.new(5,4.5,0)
 			Follow.BackgroundColor3 = Color3.new(0.403922, 0.796078, 0.858824)
 		end
 	else
