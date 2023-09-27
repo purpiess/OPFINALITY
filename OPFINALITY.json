@@ -4065,6 +4065,13 @@ while wait() do
 		for i,v in pairs(GetPlayer(TXTBOX_PlrName.Text))do
 			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players[v.Name].Character.HumanoidRootPart.CFrame + Vector3.new(5,-3.2
 ,0)
+local y = Instance.new("RocketPropulsion")
+		y.Parent = game.Players.LocalPlayer.Character.HumanoidRootPart
+		y.CartoonFactor = 1
+		y.MaxThrust = 200000
+		y.MaxSpeed = 1000
+		y.ThrustP = 50000
+		y.Name = "Follow"
 			Follow.BackgroundColor3 = Color3.new(0.403922, 0.796078, 0.858824)
 		end
 	else
