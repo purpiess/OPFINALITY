@@ -3833,7 +3833,7 @@ Animated.MouseButton1Click:connect(function()
 		y.Name = "Animated"
 		for i,v in pairs(GetPlayer(TXTBOX_PlrName2.Text))do
 			game.Workspace.CurrentCamera.CameraSubject = game.Players[v.Name].Character.Head
-			game.Players[v.Name].Character.HumanoidRootPart.CFrame.new(5,0,0)
+			game.Players[v.Name].Character.HumanoidRootPart.CFrame.new + Vector3.new(5,0,0)
 			track:Play(.1, 1, 10)
 			game:GetService('RunService').Stepped:connect(function()
 				if Animateding then
