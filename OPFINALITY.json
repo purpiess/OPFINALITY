@@ -4063,7 +4063,7 @@ while wait() do
 	end
 	if following then
 		for i,v in pairs(GetPlayer(TXTBOX_PlrName.Text))do
-			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players[v.Name].Character.HumanoidRootPart.CFrame + Vector3.new(5,-3.2
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players[v.Name].Character.HumanoidRootPart.CFrame + Vector3.new(0,-3.2
 ,0)
 local y = Instance.new("RocketPropulsion")
 		y.Parent = game.Players.LocalPlayer.Character.HumanoidRootPart
